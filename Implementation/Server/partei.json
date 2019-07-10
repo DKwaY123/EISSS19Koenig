@@ -1,0 +1,7 @@
+var waehler = {
+  username: "ParteiMustermann",
+  Nationalität: "Deutsch",
+  password: "12345",
+  email: "Partei@Mustermann.de",
+  PID: "PID1"
+};
